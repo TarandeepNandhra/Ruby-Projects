@@ -15,8 +15,10 @@ end
 while true do
   p1, p2 =  roll, roll
   if p1 > p2 
+    puts true
     return true
   else
+    puts false
     return false
   end
 end

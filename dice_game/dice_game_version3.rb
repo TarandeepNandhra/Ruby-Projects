@@ -26,4 +26,3 @@ else
     puts "Better luck next time, your opponent won"
 end
     
-
